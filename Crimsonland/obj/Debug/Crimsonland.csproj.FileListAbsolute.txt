@@ -1,0 +1,10 @@
+C:\Users\lvlad\source\repos\Crimsonland\Crimsonland\bin\Debug\Crimsonland.exe.config
+C:\Users\lvlad\source\repos\Crimsonland\Crimsonland\bin\Debug\Crimsonland.exe
+C:\Users\lvlad\source\repos\Crimsonland\Crimsonland\bin\Debug\Crimsonland.pdb
+C:\Users\lvlad\source\repos\Crimsonland\Crimsonland\obj\Debug\Crimsonland.csprojAssemblyReference.cache
+C:\Users\lvlad\source\repos\Crimsonland\Crimsonland\obj\Debug\Crimsonland.Form1.resources
+C:\Users\lvlad\source\repos\Crimsonland\Crimsonland\obj\Debug\Crimsonland.Properties.Resources.resources
+C:\Users\lvlad\source\repos\Crimsonland\Crimsonland\obj\Debug\Crimsonland.csproj.GenerateResource.cache
+C:\Users\lvlad\source\repos\Crimsonland\Crimsonland\obj\Debug\Crimsonland.csproj.CoreCompileInputs.cache
+C:\Users\lvlad\source\repos\Crimsonland\Crimsonland\obj\Debug\Crimsonland.exe
+C:\Users\lvlad\source\repos\Crimsonland\Crimsonland\obj\Debug\Crimsonland.pdb
